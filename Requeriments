@@ -1,7 +1,9 @@
-python-telegram-bot==13.7
-sqlalchemy==1.4.46
-apscheduler==3.9.1
-pytz==2022.7.1
-PyPDF2==3.0.1
-ebooklib==0.17.1
-beautifulsoup4==4.12.2
+ python-telegram-bot==13.7
+ python-dotenv
+ sqlalchemy
+ apscheduler
+ pytz
+ PyPDF2
+ ebooklib
+ standard-imghdr
+ beautifulsoup4
